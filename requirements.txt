@@ -1,0 +1,4 @@
+pywin32==310
+pywinauto==0.6.9
+tldextract==5.2.0
+python-dateutil==2.9.0.post0

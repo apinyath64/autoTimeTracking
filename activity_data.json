@@ -1,0 +1,111 @@
+{
+    "activities": [
+        {
+            "duration": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-24 15:27:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2025-04-24 15:27:39"
+                }
+            ],
+            "name": "Visual Studio Code"
+        },
+        {
+            "duration": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-24 15:27:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2025-04-24 15:27:40"
+                }
+            ],
+            "name": "Automatic Time Tracking"
+        },
+        {
+            "duration": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-24 15:27:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2025-04-24 15:27:42"
+                }
+            ],
+            "name": "geeksforgeeks.org"
+        },
+        {
+            "duration": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-24 15:27:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2025-04-24 15:27:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2025-04-24 15:27:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2025-04-24 15:27:55"
+                }
+            ],
+            "name": ""
+        },
+        {
+            "duration": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-24 15:27:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2025-04-24 15:27:45"
+                }
+            ],
+            "name": "chatgpt.com"
+        },
+        {
+            "duration": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-24 15:27:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2025-04-24 15:27:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2025-04-24 15:28:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2025-04-24 15:27:59"
+                }
+            ],
+            "name": "google.co.th"
+        },
+        {
+            "duration": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-24 15:27:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2025-04-24 15:27:53"
+                }
+            ],
+            "name": "stackoverflow.com"
+        }
+    ]
+}
