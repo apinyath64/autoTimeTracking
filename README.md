@@ -1,7 +1,7 @@
 # Automatic time tracking
 Python scripts for tracking time spent on applications.
 ## Follow these steps:
-<hr>
+
 ## Clone github repository
     git clone https://github.com/apinyath64/autoTimeTracking
 
